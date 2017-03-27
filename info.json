@@ -1,0 +1,12 @@
+{
+  "name": "storm-compatability",
+  "version": "0.14.0",
+  "factorio_version": "0.14",
+  "title": "StormTAG compatability mod",
+  "author": "StormTAG",
+  "contact": "",
+  "homepage": "",
+  "description": "Compatability tweaks between my favorite mods",
+  "dependencies": ["base >= 0.14.0", "bobplates >= 0.14.0", "bobelectronics >= 0.14.0", "bobpower >= 0.14.0", "bobores >= 0.14.0", "boblibrary >= 0.14.0", "? bobmodules >= 0.14.0",  "? bobtech >= 0.14.0", "? bobwarfare >= 0.14.0", "? bobconfig >= 0.14.0", "angelspetrochem >= 0.3.4", "pycoalprocessing >= 0.1.2"]
+
+}
